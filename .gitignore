@@ -1,1 +1,6 @@
-dlenv/
+dlearning/
+docs/
+db/
+__pycache__/
+test.py 
+test.ipynb 
